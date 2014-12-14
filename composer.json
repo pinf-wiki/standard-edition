@@ -13,7 +13,7 @@
     "autoload": {
         "psr-0": { "": "src/" }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
         "symfony/symfony": "~2.5",
@@ -24,8 +24,8 @@
         "symfony/assetic-bundle": "~2.3",
         "symfony/swiftmailer-bundle": "~2.3",
         "symfony/monolog-bundle": "~2.4",
-        "symfony-cmf/symfony-cmf": "1.2.*",
-        "symfony-cmf/simple-cms-bundle": "1.2.*",
+        "symfony-cmf/symfony-cmf": "dev-menu_2.0",
+        "symfony-cmf/simple-cms-bundle": "dev-menu_20",
         "symfony-cmf/create-bundle": "1.2.*",
         "jackalope/jackalope-doctrine-dbal": "1.1.*",
         "sensio/distribution-bundle": "~3.0",
